@@ -1,6 +1,6 @@
 # Personalized B day Site
 
-# I made this online GIFT CARD with SCRIMBA 
+# I made this online GIFT CARD with SCRIMBA.
 
 ## About Scrimba
 
